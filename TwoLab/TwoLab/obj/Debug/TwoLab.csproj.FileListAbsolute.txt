@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\TwoLab\TwoLab\obj\Debug\TwoLab.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\TwoLab\TwoLab\obj\Debug\TwoLab.Form1.resources
+C:\Users\Admin\source\repos\TwoLab\TwoLab\obj\Debug\TwoLab.Properties.Resources.resources
+C:\Users\Admin\source\repos\TwoLab\TwoLab\obj\Debug\TwoLab.View.AddFabrica.resources
+C:\Users\Admin\source\repos\TwoLab\TwoLab\obj\Debug\TwoLab.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\TwoLab\TwoLab\obj\Debug\TwoLab.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TwoLab\TwoLab\bin\Debug\TwoLab.exe.config
+C:\Users\Admin\source\repos\TwoLab\TwoLab\bin\Debug\TwoLab.exe
+C:\Users\Admin\source\repos\TwoLab\TwoLab\bin\Debug\TwoLab.pdb
+C:\Users\Admin\source\repos\TwoLab\TwoLab\obj\Debug\TwoLab.exe
+C:\Users\Admin\source\repos\TwoLab\TwoLab\obj\Debug\TwoLab.pdb
